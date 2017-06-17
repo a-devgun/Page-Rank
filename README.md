@@ -1,6 +1,4 @@
-/==================\
-|    PAGE  RANK    |
-\==================/
+# PAGE  RANK
 
 This script can be used to assign Page Rank to the W2G collection list provided in the below link.
 
@@ -12,16 +10,13 @@ The python file - 'PageRank.py' is used to execute over the collection 'wt2g_inl
 The python file - 'PageRank-Sample.py' runs over the sample links A,B,C,D,E,F which is stored in file 'names.txt'.
 
 
-SETUP
-=====
+## SETUP
 
 1. Download the latest version of python - "Python 3.5.0".
 2. Install PyCharm.
 3. Execute code. 
 
-ABOUT THE CODE
-==============
-
+## ABOUT THE CODE
 
 PageRank-Sample.py
 
@@ -39,7 +34,6 @@ PageRank.py
 6. The analysis of Page Rank is stored in a file named - 'Page Rank Analysis.docx'
 
 
-CONTACT
-=======
+## CONTACT
 
 Please contact 'Anirudh Devgun' at 'devgun.a@husky.neu.edu' in case of any issues.
